@@ -1,5 +1,5 @@
 # data-science-ipython-notebooks
-Data science encompasses a wide range of areas, topics, and sub-domains such as Big Data, Machine &amp; Deep learning (ETL, EDA, TensorFlow, Keras), Data Mining/Visualization, BI, Predictive Analytics, Statistical Analytics, etc.
+Data science encompasses a wide range of areas, topics, and sub-domains such as Big Data, Machine &amp; Deep learning (ETL, TensorFlow, Keras), Data Mining/Visualization (EDA), BI, Predictive Analytics, Statistical Analytics, etc.
 
 
  - **Machine Learning**: This involves creating algorithms and models that can learn from and make predictions or decisions based on data.
@@ -8,7 +8,7 @@ Data science encompasses a wide range of areas, topics, and sub-domains such as 
 
  - **Big Data**: Big data refers to the analysis of large and complex datasets that traditional data processing applications are unable to handle.
 
- - **ata Visualization**: Data visualization is the graphical representation of data to help people understand the significance of data by placing it in a visual context.
+ - **Data Visualization**: Data visualization is the graphical representation of data to help people understand the significance of data by placing it in a visual context.
 
  - **Predictive Analytics**: Predictive analytics involves using statistical algorithms and machine learning techniques to identify the likelihood of future outcomes based on historical data.
 
@@ -47,3 +47,6 @@ Data science encompasses a wide range of areas, topics, and sub-domains such as 
  - **A/B Testing**: A/B testing is a method of comparing two versions of a web page, app, or product to determine which one performs better. It is used to make data-driven decisions about design and marketing strategies.
 
 The above areas, topics, and sub-domains highlight the diverse and multidisciplinary nature of data science, encompassing fields such as statistics, computer science, and domain-specific knowledge. The additional areas further demonstrate the broad applications and interdisciplinary nature of our research across various domains and industries, and is rapidly evolving with new areas and topics emerging all the time.
+
+
+Will be adding notebooks soon... thank you for your patience!
